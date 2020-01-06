@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ogunjo Samuel"
 title_separator          : "-"
-name                     : &name "Dr. S. T. Ogunjo"
-description              : &description "personal description"
+name                     : "Dr. S. T. Ogunjo"
+description              : "A researcher"
 url                      : https://ogunjosam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ogunjosam.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dr. Ogunjo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am researcher and educator passionate about the application of physics in solving practical, real life problems. My interests are in the application of nonlinear dynamics. "
+  location         : "Akure, Nigeria"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=agNpHOAAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Samuel_Ogunjo"
+  researchgate     : "https://www.researchgate.net/profile/Samuel_Ogunjo"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ogunjosam"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : "https://profiles.impactstory.org/u/0000-0002-6986-1939"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6986-1939"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ogunjosam"
   vine             :
   weibo            :
   xing             :
