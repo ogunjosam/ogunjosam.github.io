@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics (Electronics), Olabisi Onabanjo University, Ago-Iwoye, Ogun State, 2007
+* M.Tech. in Condensed Matter Physics, Federal University of Technology, Akure, Ondo State, 2012
+* Ph.D in Condensed Matter Physics, Federal University of Technology, Akure, Ondo State, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2012 - 2014: Physics Tutor
+  * Federal University of Technology Akure, Ondo State, Nigeria
+  * Duties included: Teaching
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014 - Till date: Researcher
+  * Federal University of Technology Akure, Ondo State, Nigeria
+  * Duties included: Teaching, Research and Community services
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * MATLAB
+  * PYTHON
+
 
 Publications
 ======
@@ -56,4 +52,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-ordinator, UABS/PDS Unit, Centre for Continuing Education, Federal University of Technology Akure, Ondo State, Nigeria
+* Co-ordinator, Technology Park and Incubation Centre, Federal University of Technology Akure, Ondo State, Nigeria
